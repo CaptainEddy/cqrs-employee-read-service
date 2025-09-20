@@ -9,7 +9,6 @@ public class EmployeeDTO {
     private String department;
     private String position;
     private Long salary;
-    private Long version;
 
     public String getEmployeeId() {
         return employeeId;
